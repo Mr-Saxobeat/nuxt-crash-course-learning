@@ -1,5 +1,7 @@
 Este repositório contém os códigos seguidos do tutorial de nuxt https://youtu.be/Wdmi4k7sFzU
 
+Repositório: https://github.com/harblaith7/Nuxt-Crash-Course
+
 Para criar um novo projeto:
     $ npx create-nuxt-app [nome]
 
@@ -18,3 +20,6 @@ Configurações de instalação:
     ? Development tools: (Press <space> to select, <a> to toggle all, <i> to invert selection)
     ? Continuous integration: None
     ? Version control system: Git
+
+Posso instalar o Vue snippet code para agilizar a escrita de código.
+Instalar emmet abreviation
